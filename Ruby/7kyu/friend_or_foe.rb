@@ -1,0 +1,31 @@
+=begin
+
+Make a program that filters a list of strings and returns a list with only
+your friends name in it.
+
+If a name has exactly 4 letters in it, you can be sure that it has to
+be a friend of yours! Otherwise, you can be sure he's not...
+
+Ex: Input = ["Ryan", "Kieran", "Jason", "Yous"], Output = ["Ryan", "Yous"]
+
+i.e.
+
+friend ["Ryan", "Kieran", "Mark"] `shouldBe` ["Ryan", "Mark"]
+
+=end
+
+# My solution
+def friend(friends)
+  my_friends = Array.new
+  friends.each { |name|
+    if name.length == 4
+      my_friends << name
+    end
+    }
+    return my_friends
+end
+
+# Better solution
+def friend(friends)
+  friends.select { |name| name.length == 4 }
+end
