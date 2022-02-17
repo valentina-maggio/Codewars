@@ -3,7 +3,7 @@
 Here I collect the Codewars challenges I completed using Ruby.
 For most challenges I show my solution and alternative/better solutions.
 
-[8kyu](#8kyu)|[7kyu](#7kyu)|[6kyu](#6kyu)|[5kyu](#5kyu)
+## [8kyu](#8kyu) | [7kyu](#7kyu) | [6kyu](#6kyu) | [5kyu](#5kyu)
 
 ---
 
