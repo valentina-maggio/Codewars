@@ -9,9 +9,9 @@ For most challenges I show my solution and alternative/better solutions.
 
 ### 8kyu
 
-* A Strange Trip to the Market
-* Abbreviate a Two Word Name
-* All Star Code Challenge #18
+* [A Strange Trip to the Market](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/strange_trip_to_market.rb) - [Codewars](https://www.codewars.com/kata/55ccdf1512938ce3ac000056)
+* [Abbreviate a Two Word Name](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/abbreviate_two_word_name.rb) - [Codewars](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
+* [All Star Code Challenge #18](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/all_star_code_challenge%20.rb) - [Codewars](https://www.codewars.com/kata/5865918c6b569962950002a1)
 * altERnaTIng cAsE <=> ALTerNAtiNG CaSe
 * Basic Mathematical Operations
 * Basic variable assignment
