@@ -12,154 +12,154 @@ For most challenges I show my solution and alternative/better solutions.
 * [A Strange Trip to the Market](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/strange_trip_to_market.rb) - [Codewars](https://www.codewars.com/kata/55ccdf1512938ce3ac000056)
 * [Abbreviate a Two Word Name](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/abbreviate_two_word_name.rb) - [Codewars](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
 * [All Star Code Challenge #18](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/all_star_code_challenge%20.rb) - [Codewars](https://www.codewars.com/kata/5865918c6b569962950002a1)
-* altERnaTIng cAsE <=> ALTerNAtiNG CaSe
-* Basic Mathematical Operations
-* Basic variable assignment
-* Beginner Series #4 Cockroach
-* Cat years, Dog years
-* Convert a Boolean to a String
-* Convert a Number to a String!
-* Convert a String to a Number!
-* Convert number to reversed array of digits
-* Convert to Binary
-* Correct the mistakes of the character recognition
-* Count by X
-* Count of positives / sum of negatives
-* Counting sheep...
-* Define a card suit
-* Drink about
-* Ensure question
-* Enumerable Magic #25 - Take the First N Elements
-* Exclamation marks series #2: Remove all exclamation marks from the end of sentence
-* Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence
-* Fake Binary
-* Find Multiples of a Number
-* Find the smallest integer in the array
-* FIXME: Replace all dots
-* Function 2 - squaring an argument 
-* Get Planet Name By ID
-* Get the mean of an array
-* Grasshopper - Debug sayHello
-* Grasshopper - Function syntax debugging
-* Grasshopper - Messi Goals
-* Hello, Name or World!
-* Hex to Decimal
-* Holiday VIII - Duty Free
-* How old will I be in 2099?
-* Is it a palindrome?
-* Jenny's secret message
-* MakeUpperCase
-* Merge two sorted arrays into one 
-* Multiple of index
-* Multiplication table for number
-* My head is at the wrong end!
-* Name on billboard
-* Name Shuffler
-* Opposites Attract
-* Parse nice int from char problem
-* Remove duplicates from list
-* Remove exclamation marks
-* Remove First and Last Character
-* Remove String Spaces
-* Removing Elements
-* Return Negative
-* Returning Strings
-* Return Two Highest Values in List
-* Reverse List Order
-* Reversed sequence
-* Reversed Strings
-* Reversed Words
-* Safen User Input Part I - htmlspecialchars
-* Short Long Short
-* Simple validation of a username with regex
-* Sort and Star
-* Square(n) Sum
-* String repeat
-* Stringy Strings
-* Sum Mixed Array
-* Sum of positive
-* Sum The Strings
-* The Feast of Many Beasts
-* Thinkful - Logic Drills: Traffic light
-* Twice as old 
-* USD => CNY
-* validate code with simple regex
-* Vowel remover
-* Well of Ideas - Easy Version
-* What is between?
-* The Wide-Mouthed frog!
-* You only need one - Beginner
+* [altERnaTIng cAsE <=> ALTerNAtiNG CaSe](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/alternating_case.rb) - [Codewars]()
+* [Basic Mathematical Operations](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/basic_math.rb) - [Codewars]()
+* [Basic variable assignment](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/basic_variable_assignment.rb) - [Codewars]()
+* [Beginner Series #4 Cockroach](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/cockroach.rb) - [Codewars]()
+* [Cat years, Dog years](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/cat_years_dog_years.rb) - [Codewars]()
+* [Convert a Boolean to a String](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/convert_boolean_to_string.rb) - [Codewars]()
+* [Convert a Number to a String!](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/number_to_string.rb) - [Codewars]()
+* [Convert a String to a Number!](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/convert_string_to_number.rb) - [Codewars]()
+* [Convert number to reversed array of digits](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/convert_num_to_reverse_array_digits.rb) - [Codewars]()
+* [Convert to Binary](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/convert_to_binary.rb) - [Codewars]()
+* [Correct the mistakes of the character recognition](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/correct_the_mistakes.rb) - [Codewars]()
+* [Count by X](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/count_by_x.rb) - [Codewars]()
+* [Count of positives / sum of negatives](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/count_positives_sum_negatives_8.rb) - [Codewars]()
+* [Counting sheep...](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/counting_sheep.rb) - [Codewars]()
+* [Define a card suit](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/define_card_suit.rb) - [Codewars]()
+* [Drink about](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/drink_about.rb) - [Codewars]()
+* [Ensure question](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/ensure_question.rb) - [Codewars]()
+* [Enumerable Magic #25 - Take the First N Elements](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/take_first_n_elements.rb) - [Codewars]()
+* [Exclamation marks series #2: Remove all exclamation marks from the end of sentence](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/remove_exclamation_marks_end.rb) - [Codewars]()
+* [Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/replace_vowels.rb) - [Codewars]()
+* [Fake Binary](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/fake_binary.rb) - [Codewars]()
+* [Find Multiples of a Number](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/find_multiples_of_number.rb) - [Codewars]()
+* [Find the smallest integer in the array](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/find_the_smallest_integer.rb) - [Codewars]()
+* [FIXME: Replace all dots](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/replace_all_dots.rb) - [Codewars]()
+* [Function 2 - squaring an argument](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/squaring_an_argument.rb) - [Codewars]()
+* [Get Planet Name By ID](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/get_planet_name_by_id.rb) - [Codewars]()
+* [Get the mean of an array](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/get_the_mean_of_array.rb) - [Codewars]()
+* [Grasshopper - Debug sayHello](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/debug_say_hello.rb) - [Codewars]()
+* [Grasshopper - Function syntax debugging](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/function_syntax_debugging.rb) - [Codewars]()
+* [Grasshopper - Messi Goals](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/messi_goals.rb) - [Codewars]()
+* [Hello, Name or World!](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/hello_name_world.rb) - [Codewars]()
+* [Hex to Decimal](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/hex_to_decimal.rb) - [Codewars]()
+* [Holiday VIII - Duty Free](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/holiday_duty_free.rb) - [Codewars]()
+* [How old will I be in 2099?](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/how_old_will_I_be.rb) - [Codewars]()
+* [Is it a palindrome?](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/is_it_palindrome.rb) - [Codewars]()
+* [Jenny's secret message](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/jennys_secret.rb) - [Codewars]()
+* [MakeUpperCase](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/make_upper_case.rb) - [Codewars]()
+* [Merge two sorted arrays into one](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/merge_two_sorted_arrays.rb) - [Codewars]()
+* [Multiple of index](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/multiple_of_index.rb) - [Codewars]()
+* [Multiplication table for number](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/multiplication_table_for_number.rb) - [Codewars]()
+* [My head is at the wrong end!](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/my_head_is_at_the_wrong_end.rb) - [Codewars]()
+* [Name on billboard](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/name_on_billboard.rb) - [Codewars]()
+* [Name Shuffler](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/name_shuffler.rb) - [Codewars]()
+* [Opposites Attract](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/opposites_attract.rb) - [Codewars]()
+* [Parse nice int from char problem](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/parse_nice_int.rb) - [Codewars]()
+* [Remove duplicates from list](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/remove_duplicates_from_list.rb) - [Codewars]()
+* [Remove exclamation marks](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/remove_exclamation_marks.rb) - [Codewars]()
+* [Remove First and Last Character](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/remove_first_and_last.rb) - [Codewars]()
+* [Remove String Spaces](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/remove_string_spaces.rb) - [Codewars]()
+* [Removing Elements](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/removing_elements.rb) - [Codewars]()
+* [Return Negative](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/return_negative.rb) - [Codewars]()
+* [Returning Strings](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/returning_strings.rb) - [Codewars]()
+* [Return Two Highest Values in List](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/return_two_highest_values.rb) - [Codewars]()
+* [Reverse List Order](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/reverse_list_order.rb) - [Codewars]()
+* [Reversed sequence](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/reversed_sequence.rb) - [Codewars]()
+* [Reversed Strings](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/reversed_strings.rb) - [Codewars]()
+* [Reversed Words](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/reversed_words.rb) - [Codewars]()
+* [Safen User Input Part I - htmlspecialchars](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/safen_user_input_p1.rb) - [Codewars]()
+* [Short Long Short](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/short_long_short.rb) - [Codewars]()
+* [Simple validation of a username with regex](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/simple_validation_of_username.rb) - [Codewars]()
+* [Sort and Star](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/sort_and_star.rb) - [Codewars]()
+* [Square(n) Sum](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/square_n_sum.rb) - [Codewars]()
+* [String repeat](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/string_repeat.rb) - [Codewars]()
+* [Stringy Strings](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/stringy_strings.rb) - [Codewars]()
+* [Sum Mixed Array](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/sum_mixed_array.rb) - [Codewars]()
+* [Sum of positive](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/sum_of_positive.rb) - [Codewars]()
+* [Sum The Strings](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/sum_the_strings.rb) - [Codewars]()
+* [The Feast of Many Beasts](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/feast_of_many_beast.rb) - [Codewars]()
+* [Thinkful - Logic Drills: Traffic light](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/traffic_light.rb) - [Codewars]()
+* [Twice as old](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/twice_as_old.rb) - [Codewars]()
+* [USD => CNY](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/usd_cny.rb) - [Codewars]()
+* [validate code with simple regex](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/validate_code.rb) - [Codewars]()
+* [Vowel remover](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/vowel_remover.rb) - [Codewars]()
+* [Well of Ideas - Easy Version](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/well_of_ideas.rb) - [Codewars]()
+* [What is between?](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/what_is_between.rb) - [Codewars]()
+* [The Wide-Mouthed frog!](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/wide_mouthed_frog.rb) - [Codewars]()
+* [You only need one - Beginner](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/8kyu/you_only_need_one.rb) - [Codewars]()
 
 ### 7kyu
 
-* Alternate capitalization
-* Are they square?
-* Beginner Series #3 Sum of Numbers
-* Check the exam
-* Credit Card Mask
-* Descending Order
-* Double Every Other
-* Driving Licence
-* Form The Minimum
-* Friend or Foe?
-* Gauß needs help! (Sums of a lot of numbers).
-* Get the Middle Character
-* Highest and Lowest
-* Is every value in the array an array?
-* Isograms
-* Jaden Casing Strings
-* List Filtering
-* Multiples and Digit Sums
-* Naughty or Nice?
-* Odd or Even?
-* Palindromes Here and There
-* Remove consecutive duplicate words
-* Reverse words
-* Round up to the next multiple of 5
-* Scrabble Score
-* Square Every Digit
-* Strings: swap vowels' case
-* Sum of integers in string
-* Sum of array singles
-* Thinkful - String Drills: Quotable
-* Which string is worth more?
-* You're a square!
+* [Alternate capitalization](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/alternate_capitalization.rb) - [Codewars]()
+* [Are they square?](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/are_they_square.rb) - [Codewars]()
+* [Beginner Series #3 Sum of Numbers](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/sum_of_numbers.rb) - [Codewars]()
+* [Check the exam](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/check_the_exam.rb) - [Codewars]()
+* [Credit Card Mask](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/credit_card_mask.rb) - [Codewars]()
+* [Descending Order](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/descending_order.rb) - [Codewars]()
+* [Double Every Other](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/double_every_other.rb) - [Codewars]()
+* [Driving Licence](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/driving_licence.rb) - [Codewars]()
+* [Form The Minimum](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/form_the_minimum.rb) - [Codewars]()
+* [Friend or Foe?](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/friend_or_foe.rb) - [Codewars]()
+* [Gauß needs help! (Sums of a lot of numbers).](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/sums_lot_of_numbers.rb) - [Codewars]()
+* [Get the Middle Character](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/get_the_middle_character.rb) - [Codewars]()
+* [Highest and Lowest](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/highest_and_lowest.rb) - [Codewars]()
+* [Is every value in the array an array?](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/is_every_value_in_the_array.rb) - [Codewars]()
+* [Isograms](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/isograms.rb) - [Codewars]()
+* [Jaden Casing Strings](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/jaden_casing_strings.rb) - [Codewars]()
+* [List Filtering](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/list_filtering.rb) - [Codewars]()
+* [Multiples and Digit Sums](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/multiples_and_digits_sums.rb) - [Codewars]()
+* [Naughty or Nice?](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/naughty_or_nice.rb) - [Codewars]()
+* [Odd or Even?](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/odd_or_even.rb) - [Codewars]()
+* [Palindromes Here and There](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/palindromes_here_and_there.rb) - [Codewars]()
+* [Remove consecutive duplicate words](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/remove_consecutive_duplicate_words.rb) - [Codewars]()
+* [Reverse words](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/reverse_word.rb) - [Codewars]()
+* [Round up to the next multiple of 5](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/round_up_to_next_multiple_of_5.rb) - [Codewars]()
+* [Scrabble Score](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/scrabble_score.rb) - [Codewars]()
+* [Square Every Digit](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/square_every_digit.rb) - [Codewars]()
+* [Strings: swap vowels' case](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/swap_vowels_case.rb) - [Codewars]()
+* [Sum of integers in string](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/sum_of_integers_in_string.rb) - [Codewars]()
+* [Sum of array singles](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/sum_of_array_singles.rb) - [Codewars]()
+* [Thinkful - String Drills: Quotable](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/string_drills.rb) - [Codewars]()
+* [Which string is worth more?](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/which_string_worth_more.rb) - [Codewars]()
+* [You're a square!](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/7kyu/youre_a_square.rb) - [Codewars]()
 
 ### 6kyu
 
-* Array.diff
-* Bit Counting
-* Bouncing Balls
-* Change it up
-* Compare powers
-* Convert string to camel case
-* Counting Duplicates
-* Create Phone Number
-* Data Reverse
-* Delete occurrences of an element if it occurs more than n times
-* Does my number look big in this?
-* Encrypt this!
-* Find the missing term in an Arithmetic Progression
-* Find the missing letter
-* Find the odd int
-* Find The Parity Outlier
-* Find the unique number
-* Format words into a sentence
-* Multiplication table
-* Pair of gloves
-* Replace With Alphabet Position
-* Row of the odd triangle
-* Sort the odd
-* Split Strings
-* Sum of many ints
-* Summarize ranges
-* The Non-Discriminate Factorial
-* Tribonacci Sequence
-* Uncollapse Digits
-* Which are in?
-* Your order, please
+* [Array.diff](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/array_diff.rb) - [Codewars]()
+* [Bit Counting](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/bit_counting.rb) - [Codewars]()
+* [Bouncing Balls](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/bouncing_balls.rb) - [Codewars]()
+* [Change it up](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/change_it_up.rb) - [Codewars]()
+* [Compare powers](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/compare_powers.rb) - [Codewars]()
+* [Convert string to camel case](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/convert_string_to_camel_case.rb) - [Codewars]()
+* [Counting Duplicates](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/counting_duplicates.rb) - [Codewars]()
+* [Create Phone Number](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/create_phone_number.rb) - [Codewars]()
+* [Data Reverse](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/data_reverse.rb) - [Codewars]()
+* [Delete occurrences of an element if it occurs more than n times](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/delete_occurrences.rb) - [Codewars]()
+* [Does my number look big in this?](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/does_my_number_look_big_in_this.rb) - [Codewars]()
+* [Encrypt this!](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/encrypt_this.rb) - [Codewars]()
+* [Find the missing term in an Arithmetic Progression](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/find_the_missing_in_arithmetic_progression.rb) - [Codewars]()
+* [Find the missing letter](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/find_the_missing_letter.rb) - [Codewars]()
+* [Find the odd int](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/find_the_odd_int.rb) - [Codewars]()
+* [Find The Parity Outlier](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/find_the_parity_outlier.rb) - [Codewars]()
+* [Find the unique number](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/find_the_unique_number.rb) - [Codewars]()
+* [Format words into a sentence](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/format_words_into_sentence.rb) - [Codewars]()
+* [Multiplication table](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/multiplication_table.rb) - [Codewars]()
+* [Pair of gloves](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/pair_of_gloves.rb) - [Codewars]()
+* [Replace With Alphabet Position](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/replace_with_alphabet_position.rb) - [Codewars]()
+* [Row of the odd triangle](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/row_of_the_odd_triangle.rb) - [Codewars]()
+* [Sort the odd](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/sort_the_odd.rb) - [Codewars]()
+* [Split Strings](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/split_strings.rb) - [Codewars]()
+* [Sum of many ints](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/sum_of_many_ints.rb) - [Codewars]()
+* [Summarize ranges](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/summarize_ranges.rb) - [Codewars]()
+* [The Non-Discriminate Factorial](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/the_non_discriminate_factorial.rb) - [Codewars]()
+* [Tribonacci Sequence](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/tribonacci_sequence.rb) - [Codewars]()
+* [Uncollapse Digits](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/uncollapse_digits.rb) - [Codewars]()
+* [Which are in?](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/which%20are%20in.rb) - [Codewars]()
+* [Your order, please](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/6kyu/your_order_please.rb) - [Codewars]()
 
 ### 5kyu
 
-* Missing number in Unordered Arithmetic Progression
-* Where my anagrams at?
+* [Missing number in Unordered Arithmetic Progression](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/5kyu/missing_number_unordered_arithmetic_progression.rb)- [Codewars]()
+* [Where my anagrams at?](https://github.com/valentina-maggio/Codewars/blob/main/Ruby/5kyu/where_my_anagram_at.rb) - [Codewars]()
